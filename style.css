@@ -1,0 +1,12 @@
+body {
+    background-image: url("background.jpg");
+    font-family: "Arial";
+}
+.pane {
+    padding-top: 15px;padding-bottom: 15px;padding-left: 20px;padding-right: 20px;
+    border: 1px solid brown; margin-left: 25px; margin-right: 25px;margin-top: 25px;
+    border-top-left-radius: 20px; width: 250px; background-color: #F5F5DB;
+}
+
+#showoff {border-bottom-left-radius:20px; border-top-left-radius:0px;
+       box-shadow: 10px 10px 5px DarkGray;}
